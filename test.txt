@@ -5,3 +5,5 @@ some new code in fourth line
 
 new feature 1
 new feature 2
+
+new feature 3
