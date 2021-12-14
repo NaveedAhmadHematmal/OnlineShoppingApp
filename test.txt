@@ -2,3 +2,6 @@ some text
 some new code
 some new code in third line
 some new code in fourth line
+
+new feature 1
+new feature 2
